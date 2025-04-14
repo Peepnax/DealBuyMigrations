@@ -8,7 +8,7 @@
     />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Deal buy</title>
+    <title>Deal Buy</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -102,7 +102,7 @@
       <div id="model_container"></div>
       <div class="container px-4 px-lg-5 my-5">
         <div class="text-center text-black">
-          <h1 class="display-4 fw-bolder text-title-custom fuente-titulo">DEAL BUY</h1>
+          <h1 class="display-4 fw-bolder text-title-custom fuente-titulo">D E A L B U Y</h1>
           <p class="lead fw-normal text-custom mb-0">
             Donde la innovación se encuentra con las ofertas
           </p>

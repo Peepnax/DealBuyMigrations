@@ -12,7 +12,7 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
-Route::get('/login', function () {
+Route::get('dc', function () {
     return view('login-reg');
 })->name('login');
 
